@@ -14,20 +14,45 @@ To find out more about me or read about what i've been working on, check out my 
 
 I like to build apps with the following technologies
 
-- C#
-- PowerShell
-- Xamarin.Forms
-- Xamarin.iOS
-- Xamarin.Mac
-- WPF
-- Azure Pipelines
-- NUnit
-- Prism
-- Python
-- Bootstrap
-- JQuery
-- React
-- Svelte
+<a href="https://docs.microsoft.com/dotnet/csharp/">
+    <img src="../Assets/csharp.svg" alt="C#" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://github.com/xamarin/Xamarin.Forms">
+    <img src="../Assets/xamarinforms.svg" alt="Xamarin Forms" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://github.com/xamarin/xamarin-macios">
+    <img src="../Assets/xamarinios.svg" alt="Xamarin iOS" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://github.com/xamarin/xamarin-macios">
+    <img src="../Assets/xamarinmac.svg" alt="Xamarin Mac" styl
+    e="vertical-align:top; margin:4px">
+</a>
+<a href="https://developer.apple.com/swift/">
+    <img src="../Assets/swift.svg" alt="Swift" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://docs.microsoft.com/en-us/windows/uwp/get-started/universal-application-platform-guide">
+    <img src="../Assets/uwp.svg" alt="UWP" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://docs.microsoft.com/en-us/visualstudio/designers/getting-started-with-wpf?view=vs-2019#:~:text=Windows%20Presentation%20Foundation%20(WPF)%20is,binding%2C%20documents%2C%20and%20security.">
+    <img src="../Assets/wpf.svg" alt="WPF" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.1">
+    <img src="../Assets/powershell.svg" alt="PowerShell" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://www.python.org/">
+    <img src="../Assets/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="https://azure.microsoft.com/en-gb/overview/what-is-azure/">
+    <img src="../Assets/azure.svg" alt="Azure" style="vertical-align:top; margin:4px">
+</a>
 
 ## Stats
 
