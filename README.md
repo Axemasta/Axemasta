@@ -6,7 +6,7 @@
 [![My Twitter](https://img.shields.io/badge/-@Axemasta-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/axemasta)
 
 
-I am a UK based software developer who specializes in mobile apps. I primarily work with the .NET technology stack and love to use C#, Xamarin Forms & Xamarin Mac.
+I am a UK based software developer who specializes in building mobile apps. I have lots of experience with native iOS and I love building cross platform apps with .NET Maui.
 
 To find out more about me or read about what i've been working on, check out my [blog](https://axemasta.github.io)!
 
